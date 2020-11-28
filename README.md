@@ -36,3 +36,4 @@ You can choose one of the action as stated below:
 - [ ] Support of multiple libraries.
 - [ ] Adding author to book class.
 - [ ] Saving the system's data to the local database.
+- [ ] Adding option for printing information about the chosen library.
