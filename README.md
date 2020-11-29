@@ -20,7 +20,7 @@ Source code of the library system project consists of the following classes:
 ## Usage  
 Library System can do following actions: Creating new library, adding new reader, adding new book, borrowing a book, returning a book, searching for a book, and checking fines.  
   
-After the starting the system, it will offer you to enter name of your library, which will be created in the system imidiatelly after. Followng the creation of the library, the system will ask you choose your further actions.  
+After the starting the system, it will offer you to enter name of your library, which will be created in the system imidiatelly after. Following the creation of the library, the system will ask you to choose your further actions.  
   
 You can choose one of the action as stated below:  
 1 - Add new reader,  
