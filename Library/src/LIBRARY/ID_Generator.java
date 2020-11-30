@@ -19,6 +19,7 @@ public class ID_Generator {
 			Random random = new Random();
 			id = random.nextInt((int) Math.pow(2, 32));
 		} while (this.IDs.contains(id));
+		this.IDs.add(id);
 		return id;
 	}
 }
